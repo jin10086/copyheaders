@@ -4,6 +4,9 @@ logs
 npm-debug.log*
 .idea
 
+build
+dist
+*.egg-info
 # Runtime data
 pids
 *.pid
